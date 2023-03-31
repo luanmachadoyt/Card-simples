@@ -13,7 +13,7 @@
 
 <h3>Para visualizar o projeto basta clicar no link abaixo:</h3>
 
-<a href="https://luanmachadoyt.github.io/Link-Tree">Clique aqui!</a>
+<a href="https://luanmachadoyt.github.io/Card-simples/">Clique aqui!</a>
 
 #
 
